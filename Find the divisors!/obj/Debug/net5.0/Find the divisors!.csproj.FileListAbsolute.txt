@@ -1,0 +1,16 @@
+E:\2.Visual Studio\FloFlo25\CodeWars\Find the divisors!\bin\Debug\net5.0\Find the divisors!.exe
+E:\2.Visual Studio\FloFlo25\CodeWars\Find the divisors!\bin\Debug\net5.0\Find the divisors!.deps.json
+E:\2.Visual Studio\FloFlo25\CodeWars\Find the divisors!\bin\Debug\net5.0\Find the divisors!.runtimeconfig.json
+E:\2.Visual Studio\FloFlo25\CodeWars\Find the divisors!\bin\Debug\net5.0\Find the divisors!.runtimeconfig.dev.json
+E:\2.Visual Studio\FloFlo25\CodeWars\Find the divisors!\bin\Debug\net5.0\Find the divisors!.dll
+E:\2.Visual Studio\FloFlo25\CodeWars\Find the divisors!\bin\Debug\net5.0\ref\Find the divisors!.dll
+E:\2.Visual Studio\FloFlo25\CodeWars\Find the divisors!\bin\Debug\net5.0\Find the divisors!.pdb
+E:\2.Visual Studio\FloFlo25\CodeWars\Find the divisors!\obj\Debug\net5.0\Find the divisors!.csproj.AssemblyReference.cache
+E:\2.Visual Studio\FloFlo25\CodeWars\Find the divisors!\obj\Debug\net5.0\Find the divisors!.GeneratedMSBuildEditorConfig.editorconfig
+E:\2.Visual Studio\FloFlo25\CodeWars\Find the divisors!\obj\Debug\net5.0\Find the divisors!.AssemblyInfoInputs.cache
+E:\2.Visual Studio\FloFlo25\CodeWars\Find the divisors!\obj\Debug\net5.0\Find the divisors!.AssemblyInfo.cs
+E:\2.Visual Studio\FloFlo25\CodeWars\Find the divisors!\obj\Debug\net5.0\Find the divisors!.csproj.CoreCompileInputs.cache
+E:\2.Visual Studio\FloFlo25\CodeWars\Find the divisors!\obj\Debug\net5.0\Find the divisors!.dll
+E:\2.Visual Studio\FloFlo25\CodeWars\Find the divisors!\obj\Debug\net5.0\ref\Find the divisors!.dll
+E:\2.Visual Studio\FloFlo25\CodeWars\Find the divisors!\obj\Debug\net5.0\Find the divisors!.pdb
+E:\2.Visual Studio\FloFlo25\CodeWars\Find the divisors!\obj\Debug\net5.0\Find the divisors!.genruntimeconfig.cache

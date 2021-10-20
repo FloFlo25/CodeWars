@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Find the divisors!/1.0.0": {
+        "runtime": {
+          "Find the divisors!.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Find the divisors!/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

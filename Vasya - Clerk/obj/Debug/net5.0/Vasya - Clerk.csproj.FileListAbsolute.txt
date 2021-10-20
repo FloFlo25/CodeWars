@@ -1,0 +1,16 @@
+E:\2.Visual Studio\FloFlo25\CodeWars\Vasya - Clerk\bin\Debug\net5.0\Vasya - Clerk.exe
+E:\2.Visual Studio\FloFlo25\CodeWars\Vasya - Clerk\bin\Debug\net5.0\Vasya - Clerk.deps.json
+E:\2.Visual Studio\FloFlo25\CodeWars\Vasya - Clerk\bin\Debug\net5.0\Vasya - Clerk.runtimeconfig.json
+E:\2.Visual Studio\FloFlo25\CodeWars\Vasya - Clerk\bin\Debug\net5.0\Vasya - Clerk.runtimeconfig.dev.json
+E:\2.Visual Studio\FloFlo25\CodeWars\Vasya - Clerk\bin\Debug\net5.0\Vasya - Clerk.dll
+E:\2.Visual Studio\FloFlo25\CodeWars\Vasya - Clerk\bin\Debug\net5.0\ref\Vasya - Clerk.dll
+E:\2.Visual Studio\FloFlo25\CodeWars\Vasya - Clerk\bin\Debug\net5.0\Vasya - Clerk.pdb
+E:\2.Visual Studio\FloFlo25\CodeWars\Vasya - Clerk\obj\Debug\net5.0\Vasya - Clerk.csproj.AssemblyReference.cache
+E:\2.Visual Studio\FloFlo25\CodeWars\Vasya - Clerk\obj\Debug\net5.0\Vasya - Clerk.GeneratedMSBuildEditorConfig.editorconfig
+E:\2.Visual Studio\FloFlo25\CodeWars\Vasya - Clerk\obj\Debug\net5.0\Vasya - Clerk.AssemblyInfoInputs.cache
+E:\2.Visual Studio\FloFlo25\CodeWars\Vasya - Clerk\obj\Debug\net5.0\Vasya - Clerk.AssemblyInfo.cs
+E:\2.Visual Studio\FloFlo25\CodeWars\Vasya - Clerk\obj\Debug\net5.0\Vasya - Clerk.csproj.CoreCompileInputs.cache
+E:\2.Visual Studio\FloFlo25\CodeWars\Vasya - Clerk\obj\Debug\net5.0\Vasya - Clerk.dll
+E:\2.Visual Studio\FloFlo25\CodeWars\Vasya - Clerk\obj\Debug\net5.0\ref\Vasya - Clerk.dll
+E:\2.Visual Studio\FloFlo25\CodeWars\Vasya - Clerk\obj\Debug\net5.0\Vasya - Clerk.pdb
+E:\2.Visual Studio\FloFlo25\CodeWars\Vasya - Clerk\obj\Debug\net5.0\Vasya - Clerk.genruntimeconfig.cache

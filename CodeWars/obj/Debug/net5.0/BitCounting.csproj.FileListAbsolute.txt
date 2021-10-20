@@ -1,0 +1,15 @@
+E:\2.Visual Studio\FloFlo25\CodeWars\CodeWars\bin\Debug\net5.0\BitCounting.exe
+E:\2.Visual Studio\FloFlo25\CodeWars\CodeWars\bin\Debug\net5.0\BitCounting.deps.json
+E:\2.Visual Studio\FloFlo25\CodeWars\CodeWars\bin\Debug\net5.0\BitCounting.runtimeconfig.json
+E:\2.Visual Studio\FloFlo25\CodeWars\CodeWars\bin\Debug\net5.0\BitCounting.runtimeconfig.dev.json
+E:\2.Visual Studio\FloFlo25\CodeWars\CodeWars\bin\Debug\net5.0\BitCounting.dll
+E:\2.Visual Studio\FloFlo25\CodeWars\CodeWars\bin\Debug\net5.0\ref\BitCounting.dll
+E:\2.Visual Studio\FloFlo25\CodeWars\CodeWars\bin\Debug\net5.0\BitCounting.pdb
+E:\2.Visual Studio\FloFlo25\CodeWars\CodeWars\obj\Debug\net5.0\BitCounting.GeneratedMSBuildEditorConfig.editorconfig
+E:\2.Visual Studio\FloFlo25\CodeWars\CodeWars\obj\Debug\net5.0\BitCounting.AssemblyInfoInputs.cache
+E:\2.Visual Studio\FloFlo25\CodeWars\CodeWars\obj\Debug\net5.0\BitCounting.AssemblyInfo.cs
+E:\2.Visual Studio\FloFlo25\CodeWars\CodeWars\obj\Debug\net5.0\BitCounting.csproj.CoreCompileInputs.cache
+E:\2.Visual Studio\FloFlo25\CodeWars\CodeWars\obj\Debug\net5.0\BitCounting.dll
+E:\2.Visual Studio\FloFlo25\CodeWars\CodeWars\obj\Debug\net5.0\ref\BitCounting.dll
+E:\2.Visual Studio\FloFlo25\CodeWars\CodeWars\obj\Debug\net5.0\BitCounting.pdb
+E:\2.Visual Studio\FloFlo25\CodeWars\CodeWars\obj\Debug\net5.0\BitCounting.genruntimeconfig.cache

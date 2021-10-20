@@ -1,0 +1,16 @@
+E:\2.Visual Studio\FloFlo25\CodeWars\ClashOfCodes\bin\Debug\net5.0\ClashOfCodes.exe
+E:\2.Visual Studio\FloFlo25\CodeWars\ClashOfCodes\bin\Debug\net5.0\ClashOfCodes.deps.json
+E:\2.Visual Studio\FloFlo25\CodeWars\ClashOfCodes\bin\Debug\net5.0\ClashOfCodes.runtimeconfig.json
+E:\2.Visual Studio\FloFlo25\CodeWars\ClashOfCodes\bin\Debug\net5.0\ClashOfCodes.runtimeconfig.dev.json
+E:\2.Visual Studio\FloFlo25\CodeWars\ClashOfCodes\bin\Debug\net5.0\ClashOfCodes.dll
+E:\2.Visual Studio\FloFlo25\CodeWars\ClashOfCodes\bin\Debug\net5.0\ref\ClashOfCodes.dll
+E:\2.Visual Studio\FloFlo25\CodeWars\ClashOfCodes\bin\Debug\net5.0\ClashOfCodes.pdb
+E:\2.Visual Studio\FloFlo25\CodeWars\ClashOfCodes\obj\Debug\net5.0\ClashOfCodes.GeneratedMSBuildEditorConfig.editorconfig
+E:\2.Visual Studio\FloFlo25\CodeWars\ClashOfCodes\obj\Debug\net5.0\ClashOfCodes.AssemblyInfoInputs.cache
+E:\2.Visual Studio\FloFlo25\CodeWars\ClashOfCodes\obj\Debug\net5.0\ClashOfCodes.AssemblyInfo.cs
+E:\2.Visual Studio\FloFlo25\CodeWars\ClashOfCodes\obj\Debug\net5.0\ClashOfCodes.csproj.CoreCompileInputs.cache
+E:\2.Visual Studio\FloFlo25\CodeWars\ClashOfCodes\obj\Debug\net5.0\ClashOfCodes.dll
+E:\2.Visual Studio\FloFlo25\CodeWars\ClashOfCodes\obj\Debug\net5.0\ref\ClashOfCodes.dll
+E:\2.Visual Studio\FloFlo25\CodeWars\ClashOfCodes\obj\Debug\net5.0\ClashOfCodes.pdb
+E:\2.Visual Studio\FloFlo25\CodeWars\ClashOfCodes\obj\Debug\net5.0\ClashOfCodes.genruntimeconfig.cache
+E:\2.Visual Studio\FloFlo25\CodeWars\ClashOfCodes\obj\Debug\net5.0\ClashOfCodes.csproj.AssemblyReference.cache
