@@ -7,22 +7,24 @@ namespace ClashOfCodes
     {
         static void Main(string[] args)
         {
-            int n = int.Parse(Console.ReadLine());
-            string[] myStrings = new string[n];
-            for (int i = 0; i < n; i++)
+            int N = int.Parse(Console.ReadLine());
+            string sep = "->";
+            for (int i = 0; i < N; i++)
             {
-                myStrings[i] = Console.ReadLine();
-            }
-            for (int i = 0; i < myStrings.Length; i++)
-            {
-
-                if (myStrings[i].SequenceEqual(myStrings[i].Reverse()))
+                string shift = Console.ReadLine();
+                string[] hours = shift.Split(sep);
+                if (24 - int.Parse(hours[1]) > int.Parse(hours[1]) - int.Parse(hours[0]))
                 {
-                    Console.WriteLine("true");
+                    Console.Write(hours[0] + sep + hours[1]);
                 }
                 else
                 {
-                    Console.WriteLine("false");
+                    Console.Write(hours[1] + sep + "24");
+                }
+                if (i < N)
+                {
+                    Console.Write(" ");
+
                 }
             }
         }

@@ -1,0 +1,16 @@
+E:\2.Visual Studio\FloFlo25\CodeWars\RGB To Hex Conversion\bin\Debug\net5.0\RGB To Hex Conversion.exe
+E:\2.Visual Studio\FloFlo25\CodeWars\RGB To Hex Conversion\bin\Debug\net5.0\RGB To Hex Conversion.deps.json
+E:\2.Visual Studio\FloFlo25\CodeWars\RGB To Hex Conversion\bin\Debug\net5.0\RGB To Hex Conversion.runtimeconfig.json
+E:\2.Visual Studio\FloFlo25\CodeWars\RGB To Hex Conversion\bin\Debug\net5.0\RGB To Hex Conversion.runtimeconfig.dev.json
+E:\2.Visual Studio\FloFlo25\CodeWars\RGB To Hex Conversion\bin\Debug\net5.0\RGB To Hex Conversion.dll
+E:\2.Visual Studio\FloFlo25\CodeWars\RGB To Hex Conversion\bin\Debug\net5.0\ref\RGB To Hex Conversion.dll
+E:\2.Visual Studio\FloFlo25\CodeWars\RGB To Hex Conversion\bin\Debug\net5.0\RGB To Hex Conversion.pdb
+E:\2.Visual Studio\FloFlo25\CodeWars\RGB To Hex Conversion\obj\Debug\net5.0\RGB To Hex Conversion.csproj.AssemblyReference.cache
+E:\2.Visual Studio\FloFlo25\CodeWars\RGB To Hex Conversion\obj\Debug\net5.0\RGB To Hex Conversion.GeneratedMSBuildEditorConfig.editorconfig
+E:\2.Visual Studio\FloFlo25\CodeWars\RGB To Hex Conversion\obj\Debug\net5.0\RGB To Hex Conversion.AssemblyInfoInputs.cache
+E:\2.Visual Studio\FloFlo25\CodeWars\RGB To Hex Conversion\obj\Debug\net5.0\RGB To Hex Conversion.AssemblyInfo.cs
+E:\2.Visual Studio\FloFlo25\CodeWars\RGB To Hex Conversion\obj\Debug\net5.0\RGB To Hex Conversion.csproj.CoreCompileInputs.cache
+E:\2.Visual Studio\FloFlo25\CodeWars\RGB To Hex Conversion\obj\Debug\net5.0\RGB To Hex Conversion.dll
+E:\2.Visual Studio\FloFlo25\CodeWars\RGB To Hex Conversion\obj\Debug\net5.0\ref\RGB To Hex Conversion.dll
+E:\2.Visual Studio\FloFlo25\CodeWars\RGB To Hex Conversion\obj\Debug\net5.0\RGB To Hex Conversion.pdb
+E:\2.Visual Studio\FloFlo25\CodeWars\RGB To Hex Conversion\obj\Debug\net5.0\RGB To Hex Conversion.genruntimeconfig.cache

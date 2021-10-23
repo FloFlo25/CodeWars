@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "RGB To Hex Conversion/1.0.0": {
+        "runtime": {
+          "RGB To Hex Conversion.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RGB To Hex Conversion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
